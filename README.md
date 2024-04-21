@@ -1,17 +1,17 @@
-# app_split_one
+# Mentoria Lifeados - Projeto Inicial Flutter
+Este é um projeto inicial desenvolvido individualmente como parte da Mentoria Lifeados, onde cada mentorado foi encorajado a usar sua criatividade baseada no que foi aprendido até o momento na mentoria. Utilizando o framework Flutter, cada participante criou uma versão única do aplicativo, contribuindo para a diversidade de abordagens e soluções.
 
-A new Flutter project.
+## Funcionalidades:
+Botões Interativos: Os botões "Flutter" e "Widgets" respondem a cliques do usuário, exibindo uma descrição relevante sobre o tema correspondente.
 
-## Getting Started
+## Tecnologias Utilizadas:
+Flutter: Framework da Google para desenvolvimento de aplicativos multiplataforma.
+Dart: Linguagem de programação utilizada pelo Flutter.
 
-This project is a starting point for a Flutter application.
+## Sobre a Mentoria Lifeados:
+A Mentoria Lifeados é um programa de mentoria que visa capacitar e orientar novos desenvolvedores na jornada de aprendizado e desenvolvimento de habilidades em tecnologias como Flutter, Dart, entre outras.
 
-A few resources to get you started if this is your first Flutter project:
+## Objetivo:
+Este projeto individual serve como um ponto de partida para os mentores e mentorados da Mentoria Lifeados, oferecendo um exemplo simples de implementação em Flutter e incentivando a exploração e aprendizado adicionais na plataforma.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# app_split_one
+![GravacaodeTela2024-04-21as13 28 10-ezgif com-video-to-gif-converter](https://github.com/diegofgl/app_split_one/assets/122054408/9d7572b4-c18f-4ec4-b3eb-b2f82bae9803)
